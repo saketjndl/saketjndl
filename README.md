@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Saket Jindal (~sodiumcyanide)
 
-<!--
-**saketjndl/saketjndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ AI Security Engineer | Builder. Breaker.
 
-Here are some ideas to get you started:
+I specialize in the defense and offense of Machine Learning systems, with a core focus on **AI Security** and **MLOps**. My goal is to build secure applications and reverse-engineer existing systems to find vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 What I'm Focused On (My Current Mission)
+
+| Project | Status | Core Skills Demonstrated |
+| :--- | :--- | :--- |
+| **VCHOP** | Live | **Reverse Engineering** (API Interception), Manifest V3, Web Privacy |
+| **ScamuraiX** | In Development | **AI Security**, NLP, Python, Threat Modeling |
+| **Purple Pipeline** | Planning Phase | **MLOps Defense**, CI/CD Automation, Red Teaming (Future Capstone) |
+
+---
+
+### 💻 Skills Snapshot
+
+- **Languages:** Python (Primary), C#, Dart, SQL/NoSQL
+- **Domains:** AI Red Teaming, MLOps, Network Interception, Generative AI
+- **Frameworks:** PyTorch, Flutter, Unity, FastAPI (Future Goal)
+
+### 🏅 Proven Track Record
+
+- **Finalist:** Multiple National-Level CTF Competitions
+- **Engineering:** Developed full-stack apps (Occazio, Court Clover)
+- **Specialty:** Systems Integration and Architecture (MLOps)
+
+---
+<div align="center">
+    <h3>Let's Connect!</h3>
+</div>
+
+<p align="center">
+    <a href="[Your LinkedIn URL]">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:saketjndl2005@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
