@@ -34,7 +34,7 @@ I specialize in the defense and offense of Machine Learning systems, with a core
 </div>
 
 <p align="center">
-    <a href="https://wwww.linkedin.com/in/saket-jindal/">
+    <a href="https://www.linkedin.com/in/saket-jindal/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:saketjndl2005@gmail.com">
