@@ -25,7 +25,7 @@ I specialize in the defense and offense of Machine Learning systems, with a core
 ### 🏅 Proven Track Record
 
 - **Finalist:** Multiple National-Level CTF Competitions
-- **Engineering:** Developed full-stack apps (Occazio, Court Clover)
+- **Engineering:** Developed full-stack apps (Occazio, Court Clover, Fall Guardian)
 - **Specialty:** Systems Integration and Architecture (MLOps)
 
 ---
