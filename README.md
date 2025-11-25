@@ -11,7 +11,7 @@ I specialize in the defense and offense of Machine Learning systems, with a core
 | Project | Status | Core Skills Demonstrated |
 | :--- | :--- | :--- |
 | **VCHOP** | Live | **Reverse Engineering** (API Interception), Manifest V3, Web Privacy |
-| **ScamuraiX** | In Development | **AI Security**, NLP, Python, Threat Modeling |
+| **ScamuraiX [Rebranding soon]** | In Development | **AI Security**, NLP, Python, Threat Modeling |
 | **Purple Pipeline** | Planning Phase | **MLOps Defense**, CI/CD Automation, Red Teaming (Future Capstone) |
 
 ---
