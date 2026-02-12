@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saket-jindal/">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0A66C2" />
-  </a>
-  <a href="mailto:saketjndl2005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=7144a3" />
-  </a>
+  <a href="https://www.linkedin.com/in/saket-jindal/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0A66C2" /></a><a href="mailto:saketjndl2005@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=7144a3" /></a>
 </p>
 
 <p align="center">
