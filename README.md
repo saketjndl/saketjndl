@@ -59,7 +59,6 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=60&section=footer" />
