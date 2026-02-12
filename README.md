@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=SAKET+JINDAL;AI+SECURITY+ENGINEER;SYSTEMS+ARCHITECT" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Saket%20Jindal&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saket-jindal/">
@@ -12,52 +12,55 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_Security-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux_Mint-92E32B?style=flat-square&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MLOps-ff69b4?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=AI+SECURITY+ENGINEER;MLOPS+ARCHITECT;SYSTEMS+RESEARCHER" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚡ Executive Summary
-I engineer security into the ML lifecycle. My focus is on **adversarial evaluation**, **hardened MLOps infrastructure**, and **systems-level resilience**. I treat AI models not just as software, but as complex attack surfaces that require proactive defense-in-depth.
+### ❯ Engineering Profile
+Securing the intersection of **Machine Learning** and **Systems Architecture**. My work involves developing adversarial defense mechanisms, hardening CI/CD pipelines for ML (MLOps), and auditing the attack surface of large-scale AI deployments.
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend & Core** | `Python` `C#` `FastAPI` `SQL` `NoSQL` |
-| **AI/ML Security** | `PyTorch` `Adversarial Testing` `Threat Modeling` |
-| **Infrastructure** | `Docker` `GitHub Actions` `Linux Mint` `CI/CD` |
-| **Frontend/Mobile** | `Dart` `Flutter` `Unity` |
+### ❯ Core Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,dart,pytorch,fastapi,docker,githubactions,linux,mongodb,postgres,unity,flutter" />
+  </a>
+</p>
 
 ---
 
-### 🛰 Active Deployments
+### ❯ Current Deployments & Research
 
-| Project | Status | Core Architecture |
+| Project | Designation | Focus Area |
 | :--- | :--- | :--- |
-| **VCHOP** | `STABLE` | Browser security, API interception & privacy hardening |
-| **ScamuraiX** | `BETA` | NLP-driven threat modeling & AI risk scoring |
-| **Mylo** | `IPR TRANSFER` | Secure-first browser architecture (Python-based) |
-| **Purple Pipeline** | `DEV` | Automated adversarial testing for ML deployments |
+| **VCHOP** | `Lead` | Browser security & API interception logic |
+| **ScamuraiX** | `Lead` | AI-driven threat modeling & NLP risk scoring |
+| **Mylo** | `Architect` | Python-based secure browser architecture (IPR Phase) |
+| **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments |
 
 ---
 
-### 🏆 Engineering Highlights
-* **Architected** secure full-stack ecosystems for *Occazio*, *Court Clover*, and *Fall Guardian*.
-* **Developed** bomb hoax identification systems for law enforcement integration.
-* **National Finalist** in multiple high-stakes cybersecurity competitions.
-* **Contractor** for Snorkel AI (Airdawg Labs) on Project Terminus, Marlin, and Tuna.
+### ❯ Professional Engagements
+* **Snorkel AI (via Airdawg Labs):** Contributing to *Project Terminus*, *Marlin*, and *Tuna*.
+* **Law Enforcement Tech:** Developed identification systems for tracking digital hoax threats.
+* **Architecture:** Deployed scalable full-stack ecosystems including *Occazio* and *Fall Guardian*.
 
 ---
 
-### 📊 System Metrics
+### ❯ System Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saketjndl&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </p>
 
 ---
