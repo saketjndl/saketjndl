@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0A66C2" />
   </a>
   <a href="mailto:saketjndl2005@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=D14836" />
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=d14836" />
   </a>
 </p>
 
