@@ -49,14 +49,14 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 
 ---
 
-### ❯ Engineering Metrics
+### ❯ System Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
-<p center="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="Streak Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
 </p>
 
 ---
