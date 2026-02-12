@@ -50,17 +50,18 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 ---
 
 ### ❯ System Performance Metrics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saketjndl&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saketjndl&theme=tokyonight&no-bg=true" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
