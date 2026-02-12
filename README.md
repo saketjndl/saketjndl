@@ -62,6 +62,6 @@ It is embedded into their design.
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sodiumcyanide&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodiumcyanide&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjndl&layout=compact&hide_border=true" height="160"/>
 </p>
