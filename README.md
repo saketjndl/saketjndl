@@ -37,7 +37,7 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 | :--- | :--- | :--- |
 | **VCHOP** | `Lead` | Browser security & API interception logic |
 | **ScamuraiX** | `Lead` | AI-driven threat modeling & NLP risk scoring |
-| **Mylo** | `Architect` | Python-based secure browser architecture (IPR Phase) |
+| **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase) |
 | **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments |
 
 ---
