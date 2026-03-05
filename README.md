@@ -30,6 +30,7 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 
 | Project | Designation | Focus Area |
 | :--- | :--- | :--- |
+| **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co - Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools |
 | **VCHOP** | `Lead` | Browser security & API interception logic |
 | **ScamuraiX** | `Lead` | AI-driven threat modeling & NLP risk scoring |
 | **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase) |
