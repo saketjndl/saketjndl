@@ -13,8 +13,7 @@
 ---
 
 ### ❯ Engineering Profile
-Securing the intersection of **Machine Learning** and **Systems Architecture**. My work involves developing adversarial defense mechanisms, hardening CI/CD pipelines for ML (MLOps), and auditing the attack surface of large-scale AI deployments.
-
+Securing the intersection of **Machine Learning** and **Systems Architecture**. My work focuses on applying AI and machine learning to cybersecurity. I design systems that automate offensive and defensive security workflows, enabling large-scale vulnerability discovery, adversarial testing, and automated purple teaming.
 ---
 
 ### ❯ Core Tech Stack
@@ -30,8 +29,9 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 
 | Project | Designation | Focus Area |
 | :--- | :--- | :--- |
+| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio)** | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
 | **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools |
-| **VCHOP** | `Lead` | Browser security & API interception logic |
+| **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic |
 | **ScamuraiX** | `Lead` | AI-driven threat modeling & NLP risk scoring |
 | **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase) |
 | **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments |
