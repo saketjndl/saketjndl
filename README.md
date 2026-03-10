@@ -14,6 +14,7 @@
 
 ### ❯ Engineering Profile
 Securing the intersection of **Machine Learning** and **Systems Architecture**. My work focuses on applying AI and machine learning to cybersecurity. I design systems that automate offensive and defensive security workflows, enabling large-scale vulnerability discovery, adversarial testing, and automated purple teaming.
+
 ---
 
 ### ❯ Core Tech Stack
