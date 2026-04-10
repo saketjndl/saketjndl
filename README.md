@@ -32,6 +32,7 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 | :--- | :--- | :--- |
 | **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio)** | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
 | **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools |
+| **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction |
 | **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic |
 | **ScamuraiX** | `Lead` | AI-driven threat modeling & NLP risk scoring |
 | **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase) |
