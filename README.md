@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobeacrobatreader&color=FF5733" />
   </a>
 </p>
+
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=AI+SECURITY+ENGINEER;MLOPS+ARCHITECT;SYSTEMS+RESEARCHER" alt="Typing SVG" />
 ---
 
 ### ❯ Engineering Profile
