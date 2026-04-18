@@ -38,7 +38,7 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 
 | Project | Designation | Focus Area |
 | :--- | :--- | :--- |
-| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v1.1.0)** | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
+| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v1.2.0)** | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
 | **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction |
 | **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools |
 | **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic |
