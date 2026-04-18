@@ -1,4 +1,10 @@
 <p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Saket%20Jindal&fontSize=70&animation=fadeIn&fontAlignY=35" />
+
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/saket-jindal/">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0A66C2" />
   </a>
