@@ -12,6 +12,9 @@
   <a href="https://github.com/saketjndl/Resume/blob/main/Saket_jindal_resume.pdf">
     <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobeacrobatreader&color=FF5733" />
   </a>
+  <a href="https://saketjindal.xyz">
+    <img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&logo=adobeacrobatreader&color=39A62E" />
+  </a>
 </p>
 
 <p align="center">
