@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=AI+SECURITY+ENGINEER;MLOPS+ARCHITECT;SYSTEMS+RESEARCHER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=AI+SECURITY+ENGINEER;AI+SYSTEMS+ENGINEER;OPEN+SOURCE+DEVELOPER" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,15 +37,15 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 
 ---
 
-### ❯ Current Deployments & Research
+### ❯ Featured Projects
 
 | Project | Designation | Focus Area |
 | :--- | :--- | :--- |
+| **[Sylo](https://github.com/saketjndl/Sylo)** | `Creator & Lead Maintainer` | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
 | **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v1.2.0)** | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
 | **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction |
 | **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools |
 | **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic |
-| **ScamuraiX** | `Lead` | AI-driven threat modeling & NLP risk scoring |
 | **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase) |
 | **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments |
 
