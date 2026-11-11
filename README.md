@@ -90,27 +90,20 @@ I focus on developing intelligent security systems that automate adversarial tes
 ---
 
 <!-- ========================================================= -->
-<!--                    ENGINEERING FOCUS                      -->
+<!--                     GITHUB CONTRIBUTIONS                   -->
 <!-- ========================================================= -->
 
-### ❯ Engineering Focus
+### ❯ GitHub Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automated%20Purple%20Teaming-162D50?style=for-the-badge&logo=target&logoColor=52A0FF"/>
-  <img src="https://img.shields.io/badge/Adversarial%20ML-7144A3?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://ghstats.dev/api/card?username=saketjndl&theme=tokyonight&bg=0D1117&text=C9D1D9&title_color=52A0FF&icon_color=52A0FF&hide=stars,commits,prs,issues,week,trend,avg,active_day,grade,repos,followers" width="85%" alt="GitHub Contributions and Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Secure%20AI%20Infrastructure-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Systems%20Engineering-162D50?style=for-the-badge&logo=probot&logoColor=52A0FF"/>
-  <img src="https://img.shields.io/badge/Open%20Source-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
-  <br/>
-  <i>Exploring the offensive. Engineering the defensive.</i>
-  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg"/>
+    <img src="./assets/lifetime.light.svg" width="100%" alt="Lifetime GitHub Contribution Graph"/>
+  </picture>
 </p>
 
 ---
