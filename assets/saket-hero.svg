@@ -1,40 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
 <title id="title">Saket Jindal</title>
-<desc id="desc">Colorful animated abstract profile banner with floating gradient shapes and playful geometric accents.</desc>
+<desc id="desc">Animated sci-fi military inspired profile banner in olive armor green, graphite, visor gold and cool HUD teal.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10152d"/><stop offset=".48" stop-color="#20214a"/><stop offset="1" stop-color="#351d50"/></linearGradient>
-  <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55d6ff"/><stop offset=".34" stop-color="#8b7cff"/><stop offset=".68" stop-color="#ff75b5"/><stop offset="1" stop-color="#ffb86b"/></linearGradient>
-  <radialGradient id="cyan"><stop stop-color="#37d8ff" stop-opacity=".8"/><stop offset="1" stop-color="#37d8ff" stop-opacity="0"/></radialGradient>
-  <radialGradient id="pink"><stop stop-color="#ff65b5" stop-opacity=".65"/><stop offset="1" stop-color="#ff65b5" stop-opacity="0"/></radialGradient>
-  <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
-  <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".12"/></pattern>
-  <clipPath id="clip"><rect width="1200" height="340" rx="22"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101712"/><stop offset=".55" stop-color="#1b261c"/><stop offset="1" stop-color="#263024"/></linearGradient>
+  <linearGradient id="armor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a0ad7a"/><stop offset=".45" stop-color="#596b46"/><stop offset="1" stop-color="#303d2d"/></linearGradient>
+  <linearGradient id="visor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a0"/><stop offset=".35" stop-color="#dba63b"/><stop offset=".75" stop-color="#80501d"/><stop offset="1" stop-color="#f2c65a"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#b6c77b" stop-opacity=".22"/><stop offset="1" stop-color="#b6c77b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#c9d6b4" stroke-opacity=".055"/></pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+  <clipPath id="clip"><rect width="1200" height="360" rx="18"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
-  <rect width="1200" height="340" fill="url(#bg)"/>
-  <rect width="1200" height="340" fill="url(#dots)"/>
-  <g filter="url(#blur)">
-    <ellipse cx="950" cy="80" rx="260" ry="170" fill="url(#cyan)"><animate attributeName="cx" values="950;800;950" dur="17s" repeatCount="indefinite"/></ellipse>
-    <ellipse cx="1080" cy="285" rx="280" ry="170" fill="url(#pink)"><animate attributeName="cy" values="285;190;285" dur="19s" repeatCount="indefinite"/></ellipse>
-    <ellipse cx="240" cy="330" rx="220" ry="110" fill="url(#pink)" opacity=".6"><animate attributeName="cx" values="240;350;240" dur="23s" repeatCount="indefinite"/></ellipse>
-  </g>
-  <g opacity=".92">
-    <circle cx="900" cy="85" r="42" fill="none" stroke="#55d6ff" stroke-width="2" stroke-opacity=".65"><animate attributeName="cy" values="85;68;85" dur="6s" repeatCount="indefinite"/></circle>
-    <circle cx="1080" cy="210" r="68" fill="none" stroke="#ff75b5" stroke-width="2" stroke-opacity=".55" stroke-dasharray="7 10"><animateTransform attributeName="transform" type="rotate" from="0 1080 210" to="360 1080 210" dur="34s" repeatCount="indefinite"/></circle>
-    <rect x="980" y="55" width="22" height="22" rx="6" fill="#ffb86b" transform="rotate(22 991 66)"><animateTransform attributeName="transform" type="rotate" values="22 991 66;202 991 66;22 991 66" dur="12s" repeatCount="indefinite"/></rect>
-    <path d="M790 260l12-28 12 28 28 12-28 12-12 28-12-28-28-12z" fill="#9b8cff" opacity=".9"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></path>
-    <circle cx="1145" cy="78" r="5" fill="#ffb86b"><animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="850" cy="285" r="4" fill="#55d6ff"><animate attributeName="r" values="2;5;2" dur="3.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1030" cy="300" r="5" fill="#ff75b5"><animate attributeName="opacity" values=".3;1;.3" dur="4.5s" repeatCount="indefinite"/></circle>
-  </g>
-  <path d="M0 285 C180 235 240 340 420 285 S700 230 820 270" fill="none" stroke="url(#rainbow)" stroke-width="2" stroke-opacity=".55"/>
-  <rect x="72" y="68" width="5" height="205" rx="2.5" fill="url(#rainbow)"/>
-  <text x="108" y="151" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2.4">Saket Jindal</text>
-  <text x="112" y="197" fill="#c8d4ef" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2.5">AI SECURITY  ·  MACHINE LEARNING  ·  SOFTWARE</text>
-  <path d="M112 224H360" stroke="url(#rainbow)" stroke-width="3" stroke-linecap="round"/>
-  <text x="112" y="261" fill="#aebcda" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Building and researching useful things.</text>
-  <g transform="translate(690 95)">
-    <circle r="3" fill="#fff"><animate attributeName="opacity" values=".1;1;.1" dur="3.3s" repeatCount="indefinite"/></circle>
-  </g>
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<ellipse cx="970" cy="180" rx="330" ry="250" fill="url(#glow)" filter="url(#soft)"><animate attributeName="cx" values="970;850;970" dur="20s" repeatCount="indefinite"/></ellipse>
+<!-- HUD targeting graphics -->
+<g fill="none" stroke="#9fb77a" opacity=".42">
+<circle cx="965" cy="174" r="137" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 965 174" to="360 965 174" dur="70s" repeatCount="indefinite"/></circle>
+<circle cx="965" cy="174" r="157" stroke-opacity=".3" stroke-dasharray="42 14 3 14"/>
+<path d="M965 8V48M965 300V340M799 174H842M1088 174H1132"/>
+<path d="M830 55l20 20M1080 275l20 20M1100 55l-20 20M850 275l-20 20" opacity=".5"/>
 </g>
-</svg>
+<path d="M824 174H1107" stroke="#68c8b5" stroke-width="1" opacity=".45"><animate attributeName="opacity" values=".15;.8;.15" dur="3.8s" repeatCount="indefinite"/></path>
+<!-- Original armored helmet silhouette -->
+<g transform="translate(965 172)">
+<path d="M-105 82L-119 26L-111-65L-76-116L-22-139L44-130L96-88L119-22L111 53L83 111L43 135L-54 130Z" fill="#111914" stroke="#a7b78a" stroke-width="3"/>
+<path d="M-91 57L-99-25L-76-92L-30-119L33-113L80-75L101-17L91 47L62 91L-45 103Z" fill="url(#armor)" stroke="#71865b" stroke-width="3"/>
+<path d="M-77-41L-42-72L37-75L78-42L66 12L36 37L-38 34L-69 7Z" fill="url(#visor)" stroke="#e4c36b" stroke-width="3"/>
+<path d="M-69-34L-37-60L29-62L61-38L45-26L-50-22Z" fill="#fff0ad" opacity=".3"/>
+<path d="M-80 55L-45 77L38 78L75 50L62 95L-48 108Z" fill="#263326" stroke="#83936b" stroke-width="2"/>
+<path d="M-105-5L-125-24L-113-67L-91-82L-78-53Z" fill="#71845a" stroke="#a2b487" stroke-width="2"/>
+<path d="M105-5L125-24L113-67L91-82L78-53Z" fill="#71845a" stroke="#a2b487" stroke-width="2"/>
+<path d="M-30 39L-24 58L24 58L31 39" fill="none" stroke="#c0ca9a" stroke-width="3" opacity=".6"/>
+</g>
+<!-- Moving scan line -->
+<path d="M790 0H1140" stroke="#d6b45c" stroke-width="2" opacity=".7"><animate attributeName="d" values="M790 0H1140;M790 350H1140;M790 0H1140" dur="8s" repeatCount="indefinite"/></path>
+<g fill="#d6b45c"><circle cx="1105" cy="82" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="815" cy="275" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle></g>
+<rect x="70" y="65" width="4" height="225" rx="2" fill="#a6b77c"/>
+<text x="106" y="151" fill="#f1f2e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2.4">Saket Jindal</text>
+<text x="110" y="197" fill="#c4d0ad" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="2.1">AI SECURITY  /  MACHINE LEARNING  /  SOFTWARE</text>
+<path d="M110 225H390" stroke="#d6b45c" stroke-width="3" stroke-linecap="round"/>
+<text x="110" y="263" fill="#9eae8b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Engineering systems. Testing their limits.</text>
+<text x="110" y="310" fill="#71836b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="3">PERSONAL PROFILE // EST. 2005</text>
+</g></svg>
