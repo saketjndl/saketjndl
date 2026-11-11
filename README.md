@@ -90,18 +90,27 @@ I focus on developing intelligent security systems that automate adversarial tes
 ---
 
 <!-- ========================================================= -->
-<!--                     GITHUB ACTIVITY                       -->
+<!--                    ENGINEERING FOCUS                      -->
 <!-- ========================================================= -->
 
-### ❯ GitHub Activity
+### ❯ Engineering Focus
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=52A0FF&icon_color=52A0FF&text_color=C9D1D9" height="190" alt="GitHub Statistics"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=52A0FF&text_color=C9D1D9" height="190" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/AI%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automated%20Purple%20Teaming-162D50?style=for-the-badge&logo=target&logoColor=52A0FF"/>
+  <img src="https://img.shields.io/badge/Adversarial%20ML-7144A3?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117&ring=52A0FF&fire=52A0FF&currStreakLabel=52A0FF" width="75%" alt="GitHub Contribution Streak"/>
+  <img src="https://img.shields.io/badge/Secure%20AI%20Infrastructure-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systems%20Engineering-162D50?style=for-the-badge&logo=probot&logoColor=52A0FF"/>
+  <img src="https://img.shields.io/badge/Open%20Source-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <br/>
+  <i>Exploring the offensive. Engineering the defensive.</i>
+  <br/><br/>
 </p>
 
 ---
