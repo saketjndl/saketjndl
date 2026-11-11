@@ -1,59 +1,74 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Saket Jindal. AI security engineer, AI systems engineer, open source developer." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Saket%20Jindal&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saket-jindal/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:saketjndl2005@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/saketjndl/Resume/blob/main/Saket_jindal_resume.pdf">Resume</a> &nbsp;·&nbsp;
-  <a href="https://saketjindal.xyz">saketjindal.xyz</a>
+  <a href="https://www.linkedin.com/in/saket-jindal/">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0A66C2" />
+  </a>
+  <a href="mailto:saketjndl2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=7144a3" />
+  </a>
+  <a href="https://github.com/saketjndl/Resume/blob/main/Saket_jindal_resume.pdf">
+    <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobeacrobatreader&color=FF5733" />
+  </a>
+  <a href="https://saketjindal.xyz">
+    <img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&logo=adobeacrobatreader&color=39A62E" />
+  </a>
 </p>
 
-<img src="assets/section-01.svg" width="100%" alt="01. Profile" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=AI+SECURITY+ENGINEER;AI+SYSTEMS+ENGINEER;OPEN+SOURCE+DEVELOPER" alt="Typing SVG" />
+</p>
 
+---
+
+### ❯ Engineering Profile
 Securing the intersection of **Machine Learning** and **Systems Architecture**. My work focuses on applying AI and machine learning to cybersecurity. I design systems that automate offensive and defensive security workflows, enabling large-scale vulnerability discovery, adversarial testing, and automated purple teaming.
 
-<img src="assets/section-02.svg" width="100%" alt="02. Stack" />
+---
 
-```
-languages   python · c# · dart
-ml          pytorch
-backend     fastapi · postgresql · mongodb
-infra       docker · github actions · linux
-apps        flutter · unity
-```
+### ❯ Core Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,dart,pytorch,fastapi,docker,githubactions,linux,mongodb,postgres,unity,flutter" />
+  </a>
+</p>
 
-<img src="assets/section-03.svg" width="100%" alt="03. Projects" />
+---
 
-**[Sylo SDK](https://github.com/saketjndl/Sylo)** &ensp;<sub>Creator & Lead Maintainer</sub><br>
-Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations.<br>
-[![PyPI downloads](https://img.shields.io/pepy/dt/sylo-sdk?style=flat-square&label=downloads&labelColor=0b0d12&color=8b6cf7)](https://pepy.tech/projects/sylo-sdk)
+### ❯ Featured Projects
 
-**[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)** &ensp;<sub>Creator & Lead Maintainer</sub><br>
-Pause YouTube. Play Spotify. Automatically.<br>
-[![Downloads](https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=flat-square&label=downloads&labelColor=0b0d12&color=8b6cf7)](https://github.com/saketjndl/StillSound-Studio/releases)
 
-**[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** &ensp;<sub>Co-Creator & Core Contributor</sub><br>
-AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction.
+| Project | Designation | Focus Area |
+| :--- | :--- | :--- |
+| **[Sylo SDK](https://github.com/saketjndl/Sylo)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/pepy/dt/sylo-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=Downloads&color=blue)](https://pepy.tech/projects/sylo-sdk) | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
+| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=blue)](https://github.com/saketjndl/StillSound-Studio/releases) | Pause YouTube. Play Spotify. Automatically. |
+| **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction. |
+| **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools. |
+| **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic. |
+| **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase). |
+| **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments. |
 
-**[TorqueX Autos](https://torquex-autos.vercel.app/)** &ensp;<sub>Co-Founder</sub><br>
-Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools.
 
-**[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** &ensp;<sub>Lead</sub><br>
-Browser security & API interception logic.
+---
 
-**Mylo** &ensp;<sub>Founder & Architect</sub><br>
-Python-based secure browser architecture (IPR Phase).
-
-**Purple Pipeline** &ensp;<sub>Researcher</sub><br>
-Automated adversarial testing for ML deployments.
-
-<img src="assets/section-04.svg" width="100%" alt="04. Engagements" />
-
+### ❯ Professional Engagements
 * **Snorkel AI (via Airdawg Labs):** Contributing to *Project Terminus*, *Marlin*, and *Tuna*.
 * **Law Enforcement Tech:** Developed identification systems for tracking digital hoax threats.
 * **Architecture:** Deployed scalable full-stack ecosystems including *Occazio* and *Fall Guardian*.
 
+---
+
+### ❯ System Performance Metrics
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saketjndl&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=60&section=footer" />
 </p>
