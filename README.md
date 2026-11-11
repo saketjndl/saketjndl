@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=65AFFF&center=true&vCenter=true&width=850&height=42&lines=Automated+Purple+Teaming;Adversarial+Machine+Learning;AI+Systems+Engineering;Building+Security+Through+Intelligence" alt="Professional Specializations"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/saket-jindal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,20 +19,18 @@
   </a>
 </p>
 
-<p align="center"><i>Building intelligent systems. Breaking assumptions. Engineering security.</i></p>
-
 <!-- ========================================================= -->
 <!--                    ENGINEERING PROFILE                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">01 &nbsp; Engineering Profile</h2>
+<h2 align="center">Profile</h2>
 
 <p align="center">
-  Building at the intersection of <b>Artificial Intelligence, Cybersecurity, and Systems Engineering.</b>
+  Working across <b>Artificial Intelligence, Cybersecurity, and Systems Engineering.</b>
 </p>
 
 <p align="center">
-  I focus on developing intelligent security systems that automate adversarial testing, vulnerability discovery, and defensive validation. My interests lie in <b>AI-driven offensive security, automated purple teaming, and secure AI infrastructure</b>, with an emphasis on building practical systems that bridge research and real-world security operations.
+  My work focuses on security evaluation for AI systems, adversarial machine learning, and the development of practical software. I am interested in methods for identifying vulnerabilities, evaluating model robustness, and improving the reliability of AI-enabled applications.
 </p>
 
 <br/>
@@ -45,7 +39,7 @@
 <!--                      TECHNICAL ARSENAL                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">02 &nbsp; Technical Arsenal</h2>
+<h2 align="center">Technical Skills</h2>
 
 <p align="center">
   <sub>LANGUAGES &nbsp; / &nbsp; ARTIFICIAL INTELLIGENCE</sub>
@@ -77,10 +71,10 @@
 <!--                      FEATURED PROJECTS                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">03 &nbsp; Selected Work</h2>
+<h2 align="center">Selected Projects</h2>
 
 <p align="center">
-  <i>A collection of products, research, and engineering projects.</i>
+  <i>Selected software projects and research contributions.</i>
 </p>
 
 <table>
@@ -103,7 +97,7 @@
         <img src="https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=0A66C2" alt="StillSound Downloads"/>
       </p>
       <p><code>Creator & Lead Maintainer</code></p>
-      <p>Pause YouTube. Play Spotify. Automatically.</p>
+      <p>A desktop utility that automatically manages audio playback between YouTube and Spotify.</p>
     </td>
   </tr>
   <tr>
@@ -112,14 +106,14 @@
         <a href="https://github.com/hypssprojectexhibition-dev/Aegis-Protocol">Aegis Protocol</a>
       </h3>
       <p><code>Co-Creator & Core Contributor</code></p>
-      <p>AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction.</p>
+      <p>An image security application covering steganographic watermarking, visual cryptography, and automated sensitive-data redaction.</p>
     </td>
     <td width="50%" valign="top">
       <h3>
         <a href="https://torquex-autos.vercel.app/">TorqueX Autos</a>
       </h3>
       <p><code>Co-Founder</code></p>
-      <p>Automotive media and intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools.</p>
+      <p>An automotive platform featuring industry news, vehicle analytics, comparisons, and vehicle discovery.</p>
     </td>
   </tr>
   <tr>
@@ -128,19 +122,19 @@
         <a href="https://github.com/saketjndl/VCHOP-by-sodiumcyanide">VCHOP</a>
       </h3>
       <p><code>Lead</code></p>
-      <p>Browser security and API interception logic.</p>
+      <p>Browser security research and API request interception.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Mylo</h3>
       <p><code>Founder & Architect</code></p>
-      <p>Python-based secure browser architecture (IPR Phase).</p>
+      <p>Python-based browser architecture with a focus on security. Currently in the IPR process.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>Purple Pipeline</h3>
       <p><code>Researcher</code></p>
-      <p>Automated adversarial testing for ML deployments.</p>
+      <p>Methods and tooling for adversarial evaluation of machine learning deployments.</p>
     </td>
   </tr>
 </table>
@@ -151,7 +145,7 @@
 <!--                  PROFESSIONAL ENGAGEMENTS                  -->
 <!-- ========================================================= -->
 
-<h2 align="center">04 &nbsp; Professional Engagements</h2>
+<h2 align="center">Experience</h2>
 
 <table>
   <tr>
@@ -161,7 +155,7 @@
       <sub>via Airdawg Labs</sub>
     </td>
     <td valign="top">
-      Contributing to Project Terminus, Marlin, and Tuna.
+      Contributions to Project Terminus, Marlin, and Tuna.
     </td>
   </tr>
   <tr>
@@ -169,7 +163,7 @@
       <b>Law Enforcement Technology</b>
     </td>
     <td valign="top">
-      Developed identification systems for tracking digital hoax threats.
+      Developed systems to support the identification and tracking of digital hoax threats.
     </td>
   </tr>
   <tr>
@@ -177,7 +171,7 @@
       <b>Full-Stack Architecture</b>
     </td>
     <td valign="top">
-      Designed and deployed scalable application ecosystems, including Occazio and Fall Guardian.
+      Designed and deployed full-stack applications, including Occazio and Fall Guardian.
     </td>
   </tr>
 </table>
@@ -188,7 +182,7 @@
 <!--                  RESEARCH & SPECIALIZATION                 -->
 <!-- ========================================================= -->
 
-<h2 align="center">05 &nbsp; Research & Specialization</h2>
+<h2 align="center">Research Areas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Security-0A66C2?style=for-the-badge&logo=shield&logoColor=white"/>
@@ -203,13 +197,13 @@
 </p>
 
 <p align="center">
-  <b>Selected Research</b>
+  <b>Publication</b>
 </p>
 
 <p align="center">
   <i>AI-Powered Farming Assistance Using Machine Learning Models</i>
   <br/>
-  <sub>Research publication accepted in IJACEN.</sub>
+  <sub>Accepted for publication in IJACEN.</sub>
 </p>
 
 <br/>
@@ -218,7 +212,7 @@
 <!--                    GITHUB CONTRIBUTIONS                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">06 &nbsp; GitHub Contributions</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph-eight-navy.vercel.app/graph?username=saketjndl&theme=tokyo-night&bg_color=0D1117&color=52A0FF&line=0A66C2&point=FFFFFF&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
@@ -230,18 +224,12 @@
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                          FOOTER                            -->
-<!-- ========================================================= -->
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2500&color=65AFFF&center=true&vCenter=true&width=750&height=40&lines=Always+learning.+Always+building.;Research+driven.+Engineering+focused." alt="Footer Animation"/>
+  <sub>SAKET JINDAL · SOFTWARE, AI & SECURITY</sub>
 </p>
 
 <p align="center">
-  <i>Thank you for stopping by.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:274C9B,100:7144A3&height=130&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A66C2,100:7144A3" width="35%" />
 </p>
