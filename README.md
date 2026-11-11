@@ -42,7 +42,7 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 | Project | Designation | Focus Area |
 | :--- | :--- | :--- |
 | **[Sylo](https://github.com/saketjndl/Sylo)**| `Creator & Lead Maintainer`     [![PyPI Downloads](https://static.pepy.tech/personalized-badge/sylo-sdk?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/sylo-sdk)   | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
-| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)** | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
+| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)** | `Creator & Lead Maintainer`    <img alt="Downloads" src="https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total.svg?style=for-the-badge"> | Pause YouTube. Play Spotify. Automatically. |
 | **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction |
 | **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools |
 | **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic |
