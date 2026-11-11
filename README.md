@@ -89,22 +89,19 @@ I focus on developing intelligent security systems that automate adversarial tes
 
 ---
 
+
 <!-- ========================================================= -->
 <!--                     GITHUB CONTRIBUTIONS                   -->
 <!-- ========================================================= -->
 
-
 ### ❯ GitHub Contributions
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=saketjndl&theme=tokyonight&bg=0D1117&text=C9D1D9&title_color=52A0FF&icon_color=52A0FF&hide=stars,commits,prs,issues,week,trend,avg,active_day,grade,repos,followers" width="85%" alt="GitHub Contributions and Streak"/>
+  <img src="https://github-readme-activity-graph-eight-navy.vercel.app/graph?username=saketjndl&theme=tokyo-night&bg_color=0D1117&color=52A0FF&line=0A66C2&point=FFFFFF&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg"/>
-    <img src="./assets/lifetime.light.svg" width="100%" alt="Lifetime GitHub Contribution Graph"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
