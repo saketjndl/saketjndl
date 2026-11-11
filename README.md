@@ -1,7 +1,9 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ========================================================= -->
+<!--                         HEADER                            -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=210&section=header&text=Saket%20Jindal&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=230&section=header&text=Saket%20Jindal&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -20,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=52A0FF&center=true&vCenter=true&width=650&lines=AI+SECURITY+ENGINEER;AUTOMATED+PURPLE+TEAMING;AI+SYSTEMS+ARCHITECTURE;OPEN+SOURCE+DEVELOPER" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=52A0FF&center=true&vCenter=true&width=750&lines=AI+SECURITY+ENGINEER;AUTOMATED+PURPLE+TEAMING;AI+SYSTEMS+ARCHITECTURE;OPEN+SOURCE+DEVELOPER" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -29,7 +31,9 @@
 
 ---
 
-<!-- ==================== ENGINEERING PROFILE ==================== -->
+<!-- ========================================================= -->
+<!--                    ENGINEERING PROFILE                    -->
+<!-- ========================================================= -->
 
 ### ❯ Engineering Profile
 
@@ -39,17 +43,25 @@ I focus on developing intelligent security systems that automate adversarial tes
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ========================================================= -->
+<!--                      TECHNICAL ARSENAL                    -->
+<!-- ========================================================= -->
 
 ### ❯ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,dart,pytorch,sklearn,fastapi,docker,githubactions,linux,mongodb,postgres,unity,flutter&perline=7" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,cs,dart,pytorch,fastapi,docker,githubactions&perline=7" height="65" alt="Programming and AI Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,mongodb,postgres,unity,flutter,git,vscode&perline=7" height="65" alt="Systems and Development Stack"/>
 </p>
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- ========================================================= -->
+<!--                      FEATURED PROJECTS                    -->
+<!-- ========================================================= -->
 
 ### ❯ Featured Projects
 
@@ -58,39 +70,45 @@ I focus on developing intelligent security systems that automate adversarial tes
 | **[Sylo SDK](https://github.com/saketjndl/Sylo)**<br><a href="https://pepy.tech/projects/sylo-sdk"><img src="https://img.shields.io/pepy/dt/sylo-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=Downloads&color=0A66C2" alt="Sylo Downloads"/></a> | `Creator & Lead Maintainer` | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
 | **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)**<br><a href="https://github.com/saketjndl/StillSound-Studio/releases"><img src="https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=0A66C2" alt="StillSound Downloads"/></a> | `Creator & Lead Maintainer` | Pause YouTube. Play Spotify. Automatically. |
 | **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction. |
-| **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools. |
+| **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media and intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools. |
 | **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security and API interception logic. |
 | **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase). |
 | **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments. |
 
 ---
 
-<!-- ==================== PROFESSIONAL ENGAGEMENTS ==================== -->
+<!-- ========================================================= -->
+<!--                  PROFESSIONAL ENGAGEMENTS                  -->
+<!-- ========================================================= -->
 
 ### ❯ Professional Engagements
 
 - **Snorkel AI (via Airdawg Labs):** Contributing to Project Terminus, Marlin, and Tuna.
 - **Law Enforcement Technology:** Developed identification systems for tracking digital hoax threats.
-- **Full-Stack Architecture:** Designed and deployed application ecosystems, including Occazio and Fall Guardian.
+- **Full-Stack Architecture:** Designed and deployed scalable application ecosystems, including Occazio and Fall Guardian.
 
 ---
 
-<!-- ==================== GITHUB ACTIVITY ==================== -->
+<!-- ========================================================= -->
+<!--                     GITHUB ACTIVITY                       -->
+<!-- ========================================================= -->
 
 ### ❯ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=52A0FF&icon_color=52A0FF&text_color=C9D1D9" height="170" alt="GitHub Statistics"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117&ring=52A0FF&fire=52A0FF&currStreakLabel=52A0FF" height="170" alt="GitHub Streak"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=saketjndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=52A0FF&icon_color=52A0FF&text_color=C9D1D9" height="190" alt="GitHub Statistics"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saketjndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=52A0FF&text_color=C9D1D9" height="190" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saketjndl&theme=tokyo-night&bg_color=0D1117&color=52A0FF&line=0A66C2&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117&ring=52A0FF&fire=52A0FF&currStreakLabel=52A0FF" width="75%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
 
 <p align="center">
   <i>Curiosity is the exploit. Engineering is the response.</i>
@@ -99,4 +117,3 @@ I focus on developing intelligent security systems that automate adversarial tes
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%"/>
 </p>
-```
