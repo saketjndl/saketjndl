@@ -1,24 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
 <title id="title">Saket Jindal</title>
-<desc id="desc">Minimal professional banner with a dark blue gradient and gently moving blue light.</desc>
+<desc id="desc">A restrained charcoal and olive profile banner with subtle animated light and fine geometric detail.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101923"/><stop offset=".55" stop-color="#14263a"/><stop offset="1" stop-color="#1b2035"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4b9ce2"/><stop offset="1" stop-color="#8a79c8"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#367fc0" stop-opacity=".28"/><stop offset="1" stop-color="#367fc0" stop-opacity="0"/></radialGradient>
-  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#b9d5ef" opacity=".13"/></pattern>
-  <clipPath id="clip"><rect width="1200" height="320" rx="16"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111714"/><stop offset=".58" stop-color="#1b211c"/><stop offset="1" stop-color="#24251e"/></linearGradient>
+  <radialGradient id="wash"><stop stop-color="#9aa77b" stop-opacity=".22"/><stop offset="1" stop-color="#9aa77b" stop-opacity="0"/></radialGradient>
+  <linearGradient id="rule"><stop stop-color="#a9b58a"/><stop offset="1" stop-color="#68745b"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d6ddc9" stroke-opacity=".045" stroke-width=".7"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="300" rx="14"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#dots)"/>
-  <ellipse cx="990" cy="80" rx="380" ry="240" fill="url(#glow)"><animate attributeName="cx" values="990;850;990" dur="28s" repeatCount="indefinite"/></ellipse>
-  <ellipse cx="1080" cy="280" rx="300" ry="160" fill="url(#glow)" opacity=".65"><animate attributeName="cy" values="280;190;280" dur="32s" repeatCount="indefinite"/></ellipse>
-  <path d="M760 0 C880 90 840 210 1010 320" fill="none" stroke="#8bbce8" stroke-opacity=".12" stroke-width="1"/>
-  <path d="M840 0 C960 90 920 210 1090 320" fill="none" stroke="#8bbce8" stroke-opacity=".09" stroke-width="1"/>
-  <rect x="76" y="67" width="3" height="186" rx="1.5" fill="url(#accent)"/>
-  <text x="108" y="145" fill="#f3f6fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="-1.8">Saket Jindal</text>
-  <text x="111" y="190" fill="#b7c9dc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="2.2">AI SECURITY  ·  MACHINE LEARNING  ·  SOFTWARE ENGINEERING</text>
-  <path d="M110 220 H330" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
-  <text x="111" y="253" fill="#8fa8c2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing=".45">Selected projects, research and engineering work</text>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="140" rx="370" ry="250" fill="url(#wash)"><animate attributeName="cx" values="1000;870;1000" dur="34s" repeatCount="indefinite"/></ellipse>
+  <path d="M770 -30L1030 330M850 -30L1110 330M930 -30L1190 330" stroke="#c0c9ad" stroke-opacity=".075" stroke-width="1"/>
+  <path d="M0 260H1200" stroke="#c0c9ad" stroke-opacity=".09"/>
+  <rect x="72" y="58" width="3" height="184" rx="1.5" fill="url(#rule)"/>
+  <text x="104" y="137" fill="#f0f0e9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="-1.8">Saket Jindal</text>
+  <text x="108" y="179" fill="#c1c8b7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">AI · SECURITY · SOFTWARE ENGINEERING</text>
+  <path d="M108 207H300" stroke="#a9b58a" stroke-width="2" stroke-linecap="round"/>
+  <text x="108" y="238" fill="#9da797" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing=".35">Projects, research and selected engineering work</text>
+  <g transform="translate(1080 148)" fill="none" stroke="#a9b58a" stroke-opacity=".23">
+    <circle r="78"/><circle r="58"/><circle r="38"/>
+    <path d="M-92 0H92M0 -92V92" stroke-opacity=".16"/>
+    <circle r="4" fill="#a9b58a" stroke="none"><animate attributeName="opacity" values=".35;.9;.35" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
 </g>
 </svg>
