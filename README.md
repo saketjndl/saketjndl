@@ -42,7 +42,7 @@ Securing the intersection of **Machine Learning** and **Systems Architecture**. 
 
 | Project | Designation | Focus Area |
 | :--- | :--- | :--- |
-| **[Sylo](https://github.com/saketjndl/Sylo)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/pepy/dt/sylo-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=Downloads&color=blue)](https://pepy.tech/projects/sylo-sdk) | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
+| **[Sylo SDK](https://github.com/saketjndl/Sylo)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/pepy/dt/sylo-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=Downloads&color=blue)](https://pepy.tech/projects/sylo-sdk) | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
 | **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=blue)](https://github.com/saketjndl/StillSound-Studio/releases) | Pause YouTube. Play Spotify. Automatically. |
 | **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction. |
 | **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools. |
