@@ -1,146 +1,74 @@
-<!-- ========================== HEADER ========================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Saket%20Jindal&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/saket-jindal/">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0A66C2" />
+  </a>
+  <a href="mailto:saketjndl2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=7144a3" />
+  </a>
+  <a href="https://github.com/saketjndl/Resume/blob/main/Saket_jindal_resume.pdf">
+    <img src="https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=adobeacrobatreader&color=FF5733" />
+  </a>
+  <a href="https://saketjindal.xyz">
+    <img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&logo=adobeacrobatreader&color=39A62E" />
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/saketjndl/saketjndl/main/assets/saket-hero.svg" width="100%" alt="Saket Jindal" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=850&height=48&lines=AI+Security+%26+Machine+Learning;Adversarial+Testing+%26+Model+Evaluation;Software+Engineering+%26+Research;Building+Practical+Tools+and+Systems" alt="Areas of work" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/saket-jindal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:saketjndl2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/saketjndl/Resume/blob/main/Saket_jindal_resume.pdf"><img src="https://img.shields.io/badge/Resume-View-F59E0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-<a href="https://saketjindal.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=52A0FF&center=true&vCenter=true&width=435&lines=AI+SECURITY+ENGINEER;AI+SYSTEMS+ENGINEER;OPEN+SOURCE+DEVELOPER" alt="Typing SVG" />
+</p>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-ABOUT-2563EB?style=flat-square" /> Profile
+### ❯ Engineering Profile
+Securing the intersection of **Machine Learning** and **Systems Architecture**. My work focuses on applying AI and machine learning to cybersecurity. I design systems that automate offensive and defensive security workflows, enabling large-scale vulnerability discovery, adversarial testing, and automated purple teaming.
 
-I work across **artificial intelligence, cybersecurity, and software engineering**, with a focus on security evaluation for AI systems, adversarial machine learning, and dependable software.
+---
 
-My interests include model robustness, vulnerability assessment, AI application security, and building practical tools that translate research into usable systems.
-
-## <img src="https://img.shields.io/badge/02-TOOLKIT-22C55E?style=flat-square" /> Technical Skills
-
-<div align="center">
-
-**Languages & AI**
-
-<img src="https://skillicons.dev/icons?i=python,cs,dart,pytorch,fastapi&theme=dark" height="58" alt="Python, C sharp, Dart, PyTorch, FastAPI" />
-
-<br/>
-
-**Infrastructure & Development**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,vscode&theme=dark" height="58" alt="Docker, Linux, Git, GitHub Actions, VS Code" />
-
-<br/>
-
-**Databases & Application Development**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,unity,flutter&theme=dark" height="58" alt="MongoDB, PostgreSQL, Unity, Flutter" />
-
-</div>
-
-## <img src="https://img.shields.io/badge/03-PROJECTS-F59E0B?style=flat-square" /> Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/saketjndl/Sylo">Sylo SDK</a></h3>
-      <p><img src="https://img.shields.io/pepy/dt/sylo-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20downloads&color=2563EB" alt="Sylo PyPI downloads" /></p>
-      <p><strong>Creator & Lead Maintainer</strong></p>
-      <p>An operating layer for AI agents with checkpoint recovery, approval gates, audit logging, and framework integrations.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/saketjndl/StillSound-Studio/releases">StillSound Studio</a></h3>
-      <p><img src="https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=22C55E" alt="StillSound downloads" /></p>
-      <p><strong>Creator & Lead Maintainer</strong></p>
-      <p>A desktop utility that coordinates playback between YouTube and Spotify.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hypssprojectexhibition-dev/Aegis-Protocol">Aegis Protocol</a></h3>
-      <p><img src="https://img.shields.io/badge/IMAGE_SECURITY-F59E0B?style=flat-square" alt="Image security" /></p>
-      <p><strong>Co-Creator & Core Contributor</strong></p>
-      <p>An image security application covering steganographic watermarking, visual cryptography, and automated sensitive-data redaction.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://torquex-autos.vercel.app/">TorqueX Autos</a></h3>
-      <p><img src="https://img.shields.io/badge/AUTOMOTIVE_TECH-22C55E?style=flat-square" alt="Automotive technology" /></p>
-      <p><strong>Co-Founder</strong></p>
-      <p>An automotive platform featuring industry news, vehicle analytics, comparisons, and vehicle discovery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/saketjndl/VCHOP-by-sodiumcyanide">VCHOP</a></h3>
-      <p><img src="https://img.shields.io/badge/BROWSER_SECURITY-2563EB?style=flat-square" alt="Browser security" /></p>
-      <p><strong>Lead</strong></p>
-      <p>Browser security research and API request interception.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Mylo</h3>
-      <p><img src="https://img.shields.io/badge/IN_DEVELOPMENT-F59E0B?style=flat-square" alt="In development" /></p>
-      <p><strong>Founder & Architect</strong> · <em>IPR process</em></p>
-      <p>A Python-based browser architecture with a focus on security.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Purple Pipeline</h3>
-      <p><img src="https://img.shields.io/badge/ML_SECURITY-F59E0B?style=flat-square" alt="Machine learning security" /></p>
-      <p><strong>Researcher</strong></p>
-      <p>Methods and tooling for adversarial evaluation of machine learning deployments.</p>
-    </td>
-  </tr>
-</table>
-
-## <img src="https://img.shields.io/badge/04-EXPERIENCE-22C55E?style=flat-square" /> Professional Experience
-
-| Organization / Area | Contribution |
-|:--|:--|
-| **Snorkel AI** <br/><sub>via Airdawg Labs</sub> | Contributions to Project Terminus, Marlin, and Tuna. |
-| **Law Enforcement Technology** | Developed systems to support the identification and tracking of digital hoax threats. |
-| **Full-Stack Engineering** | Designed and deployed applications including Occazio and Fall Guardian. |
-
-## <img src="https://img.shields.io/badge/05-RESEARCH-F59E0B?style=flat-square" /> Research
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_SECURITY-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ADVERSARIAL_ML-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODEL_ROBUSTNESS-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOFTWARE_SECURITY-22C55E?style=for-the-badge" />
+### ❯ Core Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,dart,pytorch,fastapi,docker,githubactions,linux,mongodb,postgres,unity,flutter" />
+  </a>
 </p>
 
-**AI-Powered Farming Assistance Using Machine Learning Models**
+---
 
-<sub>Accepted for publication in IJACEN.</sub>
+### ❯ Featured Projects
 
-## <img src="https://img.shields.io/badge/06-ACTIVITY-6CB8AD?style=flat-square" /> GitHub Activity
 
-<div align="center">
+| Project | Designation | Focus Area |
+| :--- | :--- | :--- |
+| **[Sylo SDK](https://github.com/saketjndl/Sylo)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/pepy/dt/sylo-sdk?style=for-the-badge&logo=pypi&logoColor=white&label=Downloads&color=blue)](https://pepy.tech/projects/sylo-sdk) | Production operating layer for AI agents featuring checkpoint recovery, approval gates, audit logging, and framework integrations. |
+| **[StillSound Studio](https://github.com/saketjndl/StillSound-Studio/releases/tag/v3.0.0)** | `Creator & Lead Maintainer`<br>[![Downloads](https://img.shields.io/github/downloads/saketjndl/StillSound-Studio/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=blue)](https://github.com/saketjndl/StillSound-Studio/releases) | Pause YouTube. Play Spotify. Automatically. |
+| **[Aegis Protocol](https://github.com/hypssprojectexhibition-dev/Aegis-Protocol)** | `Co-Creator & Core Contributor` | AI-powered image security suite for steganographic watermarking, visual cryptography, and automated sensitive data redaction. |
+| **[TorqueX Autos](https://torquex-autos.vercel.app/)** | `Co-Founder` | Automotive media & intelligence platform delivering industry news, vehicle analytics, comparisons, and discovery tools. |
+| **[VCHOP](https://github.com/saketjndl/VCHOP-by-sodiumcyanide)** | `Lead` | Browser security & API interception logic. |
+| **Mylo** | `Founder & Architect` | Python-based secure browser architecture (IPR Phase). |
+| **Purple Pipeline** | `Researcher` | Automated adversarial testing for ML deployments. |
 
-<img src="https://github-readme-activity-graph-eight-navy.vercel.app/graph?username=saketjndl&theme=tokyo-night&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
 
-<br/><br/>
+---
 
-<img src="https://streak-stats.demolab.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117" width="80%" alt="GitHub contribution streak" />
+### ❯ Professional Engagements
+* **Snorkel AI (via Airdawg Labs):** Contributing to *Project Terminus*, *Marlin*, and *Tuna*.
+* **Law Enforcement Tech:** Developed identification systems for tracking digital hoax threats.
+* **Architecture:** Deployed scalable full-stack ecosystems including *Occazio* and *Fall Guardian*.
 
-</div>
+---
 
-<br/>
+### ❯ System Performance Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saketjndl&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saketjndl&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="Streak Stats" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=17&duration=3000&pause=1800&color=F59E0B&center=true&vCenter=true&width=650&height=35&lines=Thanks+for+visiting.;Have+a+great+day." alt="Footer message" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,35:22C55E,70:F59E0B,100:F59E0B" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=60&section=footer" />
+</p>
