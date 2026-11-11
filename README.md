@@ -1,13 +1,11 @@
-<!-- ========================================================= -->
-<!--                         HEADER                            -->
-<!-- ========================================================= -->
+<!-- ======================= PROFILE HERO ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:274C9B,100:7144A3&height=250&section=header&text=Saket%20Jindal&fontSize=82&fontColor=FFFFFF&animation=twinkling&fontAlignY=36" width="100%" />
+  <img src="https://raw.githubusercontent.com/saketjndl/saketjndl/main/assets/saket-hero.svg" width="100%" alt="Saket Jindal | AI Security Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1400&color=65AFFF&center=true&vCenter=true&width=900&height=55&lines=AI+Security+Engineer;Automated+Purple+Teaming;Adversarial+Machine+Learning;AI+Systems+Engineering;Building+Security+Through+Intelligence" alt="Professional Specializations"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=65AFFF&center=true&vCenter=true&width=850&height=42&lines=Automated+Purple+Teaming;Adversarial+Machine+Learning;AI+Systems+Engineering;Building+Security+Through+Intelligence" alt="Professional Specializations"/>
 </p>
 
 <p align="center">
@@ -25,13 +23,7 @@
   </a>
 </p>
 
-<p align="center">
-  <i>Building intelligent systems. Breaking assumptions. Engineering security.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0A66C2,100:7144A3" width="65%"/>
-</p>
+<p align="center"><i>Building intelligent systems. Breaking assumptions. Engineering security.</i></p>
 
 <!-- ========================================================= -->
 <!--                    ENGINEERING PROFILE                    -->
